@@ -1,0 +1,42 @@
+site_name: Frans Bilas - SOUGOV.BR
+site_url: https://felixlaryssa.github.io/2025-2_T01_FRANS-BILAS/
+repo_url: https://github.com/felixlaryssa/2025-2_T01_FRANS-BILAS
+repo_name: GitHub
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/felixlaryssa/2025-2_T01_FRANS-BILAS
+
+theme:
+  name: material
+  logo: assets/images/sougovfundo.png
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      primary: "#1E3A8A"
+      accent: green
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: "#1E3A8A"
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+nav:
+  - Home: index.md  
+  - Fase 1 - Processo de Avaliação: fase1.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences

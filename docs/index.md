@@ -16,9 +16,7 @@ Frances “Fran” Bilas foi uma das seis mulheres programadoras originais do EN
 ## Sistema Escolhido
 
 O **SouGov.br** é uma plataforma voltada aos servidores públicos federais (ativos, inativos e pensionistas) e oferece informações relacionadas apenas à vida funcional desse público. Com isso, a plataforma objetiva reduzir a burocracia nos processos da vida financeira e trabalhista.
-
-O sistema oferece  algumas funcionalidades como **cadastro, autenticação, envio de documentos, emissão de relatórios, comprovante de rendimentos, consultas e afastamentos, contracheques** , garantindo acessibilidade, transparência e segurança das informações.
-
+O sistema oferece  algumas funcionalidades como **cadastro, autenticação, envio de documentos, emissão de relatórios, comprovante de rendimentos, consultas e afastamentos, contracheques**, garantindo acessibilidade, transparência e segurança das informações.
 
 A plataforma foi **escolhida pelo grupo Fran Bilas**, após os membros sugerirem diferentes plataformas open-source e realizar-se uma votação em enquete para decidir qual seria a mais adequada para o projeto.
 
@@ -36,14 +34,8 @@ A plataforma foi **escolhida pelo grupo Fran Bilas**, após os membros sugerirem
 
 <details>
   <summary>Versão SouGov Mobile</summary>
-
-  Versão 5.573 — Versão mobile utilizada ao longo desta avaliação.
+  Versão X.X — Versão mobile utilizada ao longo desta avaliação.
 </details>
-
-
-
-
-
 
 -------
 
@@ -76,7 +68,6 @@ Fonte:
 </div>
 
 
-
 **Objetivos de Desenvolvimento Sustentável (ODS) Escolhidos:**
 
 Os **Objetivos de Desenvolvimento Sustentável (ODS)** foram estabelecidos pela Organização das Nações Unidas (ONU) para orientar ações globais em prol de um futuro mais sustentável, inclusivo e justo.  
@@ -85,9 +76,8 @@ Eles abrangem questões sociais, econômicas e ambientais, servindo como referê
 Para este projeto, o grupo optou pelos seguintes ODS:
 
 * **ODS 9 — Indústria, Inovação e Infraestrutura:** O SouGov promove inovação tecnológica no setor público e cria infraestrutura digital acessível e confiável para milhões de usuários.
-
-
-* **ODS 16 — Paz, Justiça e Instituições Eficazes:** O SouGov fortalece a transparência, a confiança e a eficiência das instituições públicas ao digitalizar processos de gestão de pessoas.
+.
+* **ODS 16 — Paz, Justiça e Instituições Eficazes:**O SouGov fortalece a transparência, a confiança e a eficiência das instituições públicas ao digitalizar processos de gestão de pessoas.
 
 ---
 
@@ -154,12 +144,12 @@ Fonte:
 </div>
 
 
-
 ## Histórico de Versões
 
 <div style="text-align: center; margin: 0; font-size: 14px;">
   Tabela 3: Tabela de Versionamento
 </div>
+
 
 | Versão | Data       | Descrição                              | Autor(a) |
 | :----: | :--------: | :------------------------------------: | :------: |
@@ -175,4 +165,6 @@ Fonte:
 <a href="https://github.com/vevetin">Laís Soares</a> e 
 <a href="https://github.com/delvale412">Matheus Do Vale</a>.
 </div>
+
+
 
